@@ -1,0 +1,138 @@
+.amber {
+  padding: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 50%;
+  background-color: #f59e0b;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.blue {
+  padding: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 50%;
+  background-color: #0b69ff;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.orange {
+  padding: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 50%;
+  background-color: #f97316;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.emerald {
+  padding: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 50%;
+  background-color: #10b981;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.teal {
+  padding: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 50%;
+  background-color: #14b8a6;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.red {
+  padding: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 50%;
+  background-color: #b91c1c;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.light-blue {
+  padding: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 50%;
+  background-color: #0ea5e9;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.list-item {
+  list-style-type: none;
+  margin-left: -30px;
+  padding: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.comment-item {
+  display: flex;
+}
+.user-input-main {
+  font-size: 20px;
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+
+.time-sense {
+  color: #94a3b8;
+  font-size: 17px;
+  margin-left: 20px;
+  font-weight: 400;
+}
+
+.main-description-container {
+  margin-left: 15px;
+}
+.user-input-description {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #64748b;
+}
+.like-delete-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.like-container {
+  display: flex;
+  align-items: center;
+}
+.like-icon {
+  height: 20px;
+}
+.like-text {
+  color: #94a3b8;
+  margin-left: 8px;
+  background-color: transparent;
+  border-width: 0px;
+  font-size: 15px;
+}
+.liked-text {
+  color: #0ea5e9;
+  margin-left: 8px;
+  background-color: transparent;
+  border-width: 0px;
+  font-size: 15px;
+}
+.delete-icon {
+  height: 20px;
+}
+.delete-button {
+    background-color: transparent;
+    border-width: 0px;
+}
